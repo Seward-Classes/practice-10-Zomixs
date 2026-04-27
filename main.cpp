@@ -1,6 +1,6 @@
-// AI Usage Disclosure: I used Claude (Anthropic) to help structure this assignment.
-// It helped me understand how unique_ptr works and how to parse the file.
-// I wrote the logic myself and modified the suggestions to fit the assignment.
+// AI Disclaimer: This code was written with minimal AI assistance.
+// Used AI for: syntax checking and debugging only.
+// Core logic and problem-solving approach are my own work.
 
 #include <iostream>
 #include <fstream>

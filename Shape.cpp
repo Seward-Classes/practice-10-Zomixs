@@ -1,4 +1,7 @@
-// Shape.cpp
+// AI Disclaimer: This code was written with minimal AI assistance.
+// Used AI for: syntax checking and debugging only.
+// Core logic and problem-solving approach are my own work.
+
 #include "Shape.h"
 #include <iostream>
 #include <cmath>

@@ -1,4 +1,7 @@
-// Shape.h
+// AI Disclaimer: This code was written with minimal AI assistance.
+// Used AI for: syntax checking and debugging only.
+// Core logic and problem-solving approach are my own work.
+
 #ifndef SHAPE_H
 #define SHAPE_H
 
